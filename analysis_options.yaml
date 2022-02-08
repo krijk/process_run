@@ -1,0 +1,9 @@
+include: package:mylib01/my_analysis01.yaml
+
+linter:
+  rules:
+    public_member_api_docs: false
+    unnecessary_overrides: false
+    depend_on_referenced_packages: false
+
+    constant_identifier_names: false
